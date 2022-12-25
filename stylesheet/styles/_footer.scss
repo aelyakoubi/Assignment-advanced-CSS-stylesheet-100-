@@ -1,0 +1,25 @@
+footer {
+    background-color:$color-purple;
+    width: 600px;
+    height: 370px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    transform: translateY(115px);
+
+     img{
+      border-radius: 50%;
+      border: solid 8px $color-white;
+      border-color: 8px $color-white;
+      transform: translateY(-110px);
+     }}
+        #ftr-upper{
+        font-weight: 900;
+        font-size: xx-large;
+        color:$color-white;
+        transform: translateY(-50px);
+       }
+        #ftr-under {
+        color: $color-lpurple;
+           font-weight: 800;
+           font: size 25px;
+        }

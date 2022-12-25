@@ -1,0 +1,37 @@
+@import "./variables";               
+@import "./footer";
+
+body {
+  background-color:none;
+  margin: 40px 40px 50px 600px;
+  padding: auto;  
+}
+
+.hdr {
+  width: 600px;
+  height: 115px;
+  transform: translateY(60px);
+}
+
+.layer {
+    width: 620px;
+    height: 865px;
+    background:$color-gray;
+    transform:translateY(0px);
+    padding-left: 24px;
+}
+.container {
+  width: 600px;
+  height: 770px;
+  background:$color-white;
+  transform: translateX(10px);
+  transform: translateY(20px);
+  font-size: 19px;
+  font-weight: 200;
+  line-height: 25px;
+  letter-spacing: 0.2em;
+  text-align: center;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
