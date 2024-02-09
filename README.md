@@ -2,6 +2,7 @@ Made with: Windows, Visual Studio Code
 ------------------------------------------------
 
 Computer language: HTML, CSS, SCSS (SASS)
+Software : Figma UX design
 ------------------------------------------------
 
 Set up: ```Download for VSC Live server,  Go Live```
